@@ -21,7 +21,7 @@ class DogRandomNum extends Component {
         const { dogImages } = this.state
         return (
             <div>
-                {dogImages.map((image, i) => <img src={image} key={i}/>)}
+                {dogImages.map((image, i) => <img src={image} key={i} alt='mydog' />)}
             </div>
         )
     }
