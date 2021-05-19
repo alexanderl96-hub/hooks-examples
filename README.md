@@ -1,7 +1,7 @@
 # Hooks Exercise
 
 Let's refactor some class components using hooks!
-You'll recognize this code as
+You'll recognize this code from a portion of the react router lab.
 
 # Exercise 1
 
